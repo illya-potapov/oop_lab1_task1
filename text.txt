@@ -1,7 +1,6 @@
 hello
 pull of remote
 Hahahah 
-
+Okey, these are my changes
 Branch test
-
 Second branch test
